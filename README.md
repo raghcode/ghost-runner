@@ -1,1 +1,1 @@
-# ghost-runner
+# ghost_batch
